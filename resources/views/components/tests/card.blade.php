@@ -1,6 +1,6 @@
 @props([
   'title',
-  'message' => '初期値です。'
+  'message' => '初期値です。',
   'content' => '本文初期値'
 ])
 
